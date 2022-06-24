@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gormonn)](https://git.io/streak-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gormonn&show_icons=true)](https://github.com/gormonn/github-readme-stats)
 
 <!--
