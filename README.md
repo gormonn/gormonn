@@ -16,18 +16,31 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 # Mentions of works
 ## warface.lol
 <details>
-  <summary>Story</summary>
-Warface.lol - This is my third project after renovating my second one: uzerbar.ru.
-
-In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
+  <summary>Details</summary>
+  
+  Warface.lol - This is my third project after renovating second one "uzerbar.ru".
+  
+  In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
 </details>
+
 <details>
   <summary>Video mentions on YouTube</summary>
   
   [One](https://youtu.be/qYpXSfbfChk), [two](https://youtu.be/iIGQl0Qhzf8), [three](https://youtu.be/8Xz37MEnwmg), [four](https://youtu.be/-BXPC_CwFTs), [five](https://youtu.be/ucZ_LNm2OFw), [six](https://youtu.be/AAuU-QPd23E).
 </details>
 
-### Hi there 👋
+## BDO boss
+<details>
+  <summary>Details</summary>
+  
+  It was a small application that analyzed messages in the Discord gaming channel and displayed the gathered information on the website in infographic form.
+
+### Motivation
+The application helped Black Desert Online players increase their efficiency in boss hunting by reducing the difficulties associated with calculating boss respawn times. It also provided up-to-date information from other game servers.
+</details>
+![image](https://github.com/gormonn/gormonn/assets/6252560/b4f9967f-a793-4e39-86c7-37334138cebd)
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gormonn)](https://git.io/streak-stats)
 
