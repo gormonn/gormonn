@@ -1,3 +1,17 @@
+# Intro
+My name is Dima.
+
+- I am a developer with a great passion for programming, good UX and games.
+- I have over six years of commercial Web Development.
+- I have R&D and end-to-end development experience.
+
+I'm currently working on design document for my game. 🚀
+
+Also, I am looking for a job. 😉
+
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
+
+
 ### Hi there 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gormonn)](https://git.io/streak-stats)
