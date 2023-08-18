@@ -19,8 +19,15 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
   <summary>Details</summary>
   
   Warface.lol - This is my third project after renovating second one "uzerbar.ru".
+
+It was a purely client-side web application. I enjoyed creating it simply because it was aesthetically pleasing and one-of-a-kind. I aimed to make the interface closely resemble the original game's interface.
+
+There were several features:
+
+- A spinner for loot boxes (no financial investments, just for fun)
+- Userbar generator
   
-  In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
+In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
 </details>
 
 <details>
@@ -38,6 +45,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 ### Motivation
 The application helped Black Desert Online players increase their efficiency in boss hunting by reducing the difficulties associated with calculating boss respawn times. It also provided up-to-date information from other game servers.
 </details>
+
 ![image](https://github.com/gormonn/gormonn/assets/6252560/b4f9967f-a793-4e39-86c7-37334138cebd)
 
 
