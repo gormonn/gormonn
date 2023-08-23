@@ -13,6 +13,10 @@ Also, I am looking for a job. 😉
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Code Examples
+- Abstract Landing Page [Demo](https://gormonn.github.io/landing-abstract/) [Sources](https://github.com/gormonn/landing-abstract) Gatsby, SCSS, React
+- Electron App [release](https://github.com/gormonn/electron-app/releases) [source](https://github.com/gormonn/electron-app)
+- TicTacToe Game [Demo](https://gormonn.github.io/tic-tac-toe/) [source](https://github.com/gormonn/tic-tac-toe)
+- Mines Game [WIP] [source](https://github.com/gormonn/mines-effector-solid) with Feature Sliced Design, SolidJs, Effector
 
 # Mentions of works
 ## warface.lol
