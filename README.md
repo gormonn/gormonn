@@ -13,9 +13,10 @@ Also, I am looking for a job. 😉
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Code Examples
-- Abstract Landing Page [Demo](https://gormonn.github.io/landing-abstract/) [Sources](https://github.com/gormonn/landing-abstract)
-- Electron App [Release](https://github.com/gormonn/electron-app/releases) [Source](https://github.com/gormonn/electron-app)
-- TicTacToe Game [Demo](https://gormonn.github.io/tic-tac-toe/) [Source](https://github.com/gormonn/tic-tac-toe)
+- [Abstract Landing Page](https://gormonn.github.io/landing-abstract/) [[source]](https://github.com/gormonn/landing-abstract)
+- [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
+- [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
+- [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
 - Mines Game [WIP] [Source](https://github.com/gormonn/mines-effector-solid)
 
 # Mentions of works
