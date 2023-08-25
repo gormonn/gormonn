@@ -21,16 +21,17 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Mentions of works
 <details>
-  <summary>warface.lol</summary>
+  <summary>Warface.lol</summary>
   
-  Warface.lol - This is my third project after renovating second one "uzerbar.ru".
+  This project was one of my early works that gained popularity in a particular social group.
 
   It was a purely client-side web application. I enjoyed creating it simply because it was aesthetically pleasing and one-of-a-kind. I aimed to make the interface closely resemble the original game's interface.
   
   There were several features:
   
   - A spinner for loot boxes (no financial investments, just for fun)
-  - Userbar generator
+  - Collection of player statistics
+  - Userbar generator with overlay options.
     
   In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
   
