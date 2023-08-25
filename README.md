@@ -17,7 +17,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 - [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
 - [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
 - [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
-- Mines Game [WIP] [Source](https://github.com/gormonn/mines-effector-solid)
+- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid)
 
 # Mentions of works
 ## warface.lol
