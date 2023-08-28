@@ -15,13 +15,15 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 # Mentions of works
 <details>
   <summary>Warframe.Trade</summary>
+  
+  ### Summary
   In 2015, I developed an unofficial trading system for Warframe players because, at that time, the game lacked a developed trading system.
   
-  ## Motivation
+  ### Motivation
   Players had to manually analyze the trading chat or send out their offers for exchange.
   The site offered a search and product database, price ratings, and other marketing tools that made life easier for players.  
 
-  ## Topics on Official Forum of the Game:
+  ### Topics on Official Forum of the Game:
   - [One](https://forums.warframe.com/topic/496059-fix-consoles-awesome-trading-warframetrade-pc-ps4-xbox1-not-auction-fixed-links/?ct=1693251125)
   - [Two](https://forums.warframe.com/topic/455554-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F-%D0%BD%D0%B0-warframetrade-pcps4xbox1/?ct=1693251116)
 
@@ -29,7 +31,8 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 <details>
   <summary>Warface.Lol</summary>
-  
+
+  ### Summary
   This project was one of my early works that gained popularity in a particular social group.
 
   It was a purely client-side web application. I enjoyed creating it simply because it was aesthetically pleasing and one-of-a-kind. I aimed to make the interface closely resemble the original game's interface.
@@ -48,18 +51,19 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
   [warface-05](https://github.com/gormonn/gormonn/assets/6252560/1d6feb2f-3f29-45fd-b523-032b233650a1)
   [warface-06](https://github.com/gormonn/gormonn/assets/6252560/7a9c6174-2643-46f2-a219-8d5e2b326ceb)
 
-  ## Video mentions on YouTube
+  ### Video mentions on YouTube
     
   [One](https://youtu.be/qYpXSfbfChk), [two](https://youtu.be/iIGQl0Qhzf8), [three](https://youtu.be/8Xz37MEnwmg), [four](https://youtu.be/-BXPC_CwFTs), [five](https://youtu.be/ucZ_LNm2OFw), [six](https://youtu.be/AAuU-QPd23E).
 </details>
 
 <details>
   <summary>BDO Boss Tracker</summary>
-  
+
+  ### Summary
   It was a small application that analyzed messages in the Discord gaming channel and displayed the gathered information on the website in infographic form.
 
-  ## Motivation
-  The application helped Black Desert Online players increase their efficiency in boss hunting by reducing the difficulties associated with calculating boss respawn times. It also provided up-to-date information from other game servers.
+  ### Motivation
+  The application helped Black Desert Online players increase their efficiency in boss hunting by reducing the difficulties associated with calculating boss respawn times. It also provided up-to-date information from other game servers. The project's architecture involved social engineering, as player-generated data on bosses was collected from specific Discord chat channels.
   
   ![image](https://github.com/gormonn/gormonn/assets/6252560/b4f9967f-a793-4e39-86c7-37334138cebd)
 </details>
