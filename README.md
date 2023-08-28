@@ -22,6 +22,18 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Mentions of works
 <details>
+  <summary>warframe.trade</summary>
+  In 2015, I developed an unofficial trading system for Warframe players because, at that time, the game lacked a developed trading system. So, players had to manually analyze the trading chat or send out their offers for exchange.
+
+  The site offered a search and product database, price ratings, and other marketing tools that made life easier for players.  
+
+  ## Topics on Official Forum of the Game:
+  - [One](https://forums.warframe.com/topic/496059-fix-consoles-awesome-trading-warframetrade-pc-ps4-xbox1-not-auction-fixed-links/?ct=1693251125)
+  - [Two](https://forums.warframe.com/topic/455554-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D1%8F-%D0%BD%D0%B0-warframetrade-pcps4xbox1/?ct=1693251116)
+
+</details>
+
+<details>
   <summary>Warface.lol</summary>
   
   This project was one of my early works that gained popularity in a particular social group.
