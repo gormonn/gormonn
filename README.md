@@ -39,8 +39,6 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
   - A spinner for loot boxes (no financial investments, just for fun)
   - Collection of player statistics
   - Userbar generator with overlay options.
-    
-  In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
 
   [![warface-03](https://github.com/gormonn/gormonn/assets/6252560/5140e608-bc63-4fe8-85f9-17771f600628)](https://github.com/gormonn/gormonn/assets/6252560/68946885-3e7a-4c79-8ce7-5c2c8d9ce87e)
   [![warface-06](https://github.com/gormonn/gormonn/assets/6252560/a3ed925d-3800-4e57-b00c-152b6423a013)](https://github.com/gormonn/gormonn/assets/6252560/1d6feb2f-3f29-45fd-b523-032b233650a1)
