@@ -37,7 +37,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
   It was a purely client-side web application. I enjoyed creating it simply because it was aesthetically pleasing and one-of-a-kind. I aimed to make the interface closely resemble the original game's interface.
   
-  There were several features:
+  ### Features:
   
   - A spinner for loot boxes (no financial investments, just for fun)
   - Collection of player statistics
