@@ -12,19 +12,13 @@ Also, I am looking for a job. 😉
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
-# Code Examples
-- [Abstract Landing Page](https://gormonn.github.io/landing-abstract/) [[source]](https://github.com/gormonn/landing-abstract)
-- [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
-- [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
-- [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
-- [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
-<!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
-
 # Mentions of works
 <details>
   <summary>Warframe.Trade</summary>
   In 2015, I developed an unofficial trading system for Warframe players because, at that time, the game lacked a developed trading system.
-  So, players had to manually analyze the trading chat or send out their offers for exchange.
+  
+  ## Motivation
+  Players had to manually analyze the trading chat or send out their offers for exchange.
   The site offered a search and product database, price ratings, and other marketing tools that made life easier for players.  
 
   ## Topics on Official Forum of the Game:
@@ -48,16 +42,13 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
     
   In 2013, when I joined the startup CyberArenaPro, I had to abandon the project. As a result, only video recordings remain from the project, which were created by community members of the game.
 
-
-[![warface-03](https://github.com/gormonn/gormonn/assets/6252560/5140e608-bc63-4fe8-85f9-17771f600628)](https://github.com/gormonn/gormonn/assets/6252560/68946885-3e7a-4c79-8ce7-5c2c8d9ce87e)
-[![warface-06](https://github.com/gormonn/gormonn/assets/6252560/a3ed925d-3800-4e57-b00c-152b6423a013)](https://github.com/gormonn/gormonn/assets/6252560/1d6feb2f-3f29-45fd-b523-032b233650a1)
-[![warface-05](https://github.com/gormonn/gormonn/assets/6252560/e1541fec-9c44-40e2-90d4-490bbe7b17b3)](https://github.com/gormonn/gormonn/assets/6252560/7a9c6174-2643-46f2-a219-8d5e2b326ceb)
-
-[warface-03](https://github.com/gormonn/gormonn/assets/6252560/68946885-3e7a-4c79-8ce7-5c2c8d9ce87e)
-[warface-05](https://github.com/gormonn/gormonn/assets/6252560/1d6feb2f-3f29-45fd-b523-032b233650a1)
-[warface-06](https://github.com/gormonn/gormonn/assets/6252560/7a9c6174-2643-46f2-a219-8d5e2b326ceb)
-
+  [![warface-03](https://github.com/gormonn/gormonn/assets/6252560/5140e608-bc63-4fe8-85f9-17771f600628)](https://github.com/gormonn/gormonn/assets/6252560/68946885-3e7a-4c79-8ce7-5c2c8d9ce87e)
+  [![warface-06](https://github.com/gormonn/gormonn/assets/6252560/a3ed925d-3800-4e57-b00c-152b6423a013)](https://github.com/gormonn/gormonn/assets/6252560/1d6feb2f-3f29-45fd-b523-032b233650a1)
+  [![warface-05](https://github.com/gormonn/gormonn/assets/6252560/e1541fec-9c44-40e2-90d4-490bbe7b17b3)](https://github.com/gormonn/gormonn/assets/6252560/7a9c6174-2643-46f2-a219-8d5e2b326ceb)
   
+  [warface-03](https://github.com/gormonn/gormonn/assets/6252560/68946885-3e7a-4c79-8ce7-5c2c8d9ce87e)
+  [warface-05](https://github.com/gormonn/gormonn/assets/6252560/1d6feb2f-3f29-45fd-b523-032b233650a1)
+  [warface-06](https://github.com/gormonn/gormonn/assets/6252560/7a9c6174-2643-46f2-a219-8d5e2b326ceb)
 
   ## Video mentions on YouTube
     
@@ -75,12 +66,20 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
   ![image](https://github.com/gormonn/gormonn/assets/6252560/b4f9967f-a793-4e39-86c7-37334138cebd)
 </details>
 
+# Code Samples
+- [Abstract Landing Page](https://gormonn.github.io/landing-abstract/) [[source]](https://github.com/gormonn/landing-abstract)
+- [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
+- [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
+- [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
+- [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
+<!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gormonn)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gormonn&show_icons=true)](https://github.com/gormonn/github-readme-stats)
+[comment]: <> ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=gormonn&#41;]&#40;https://git.io/streak-stats&#41;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gormonn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> ([![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=gormonn&show_icons=true&#41;]&#40;https://github.com/gormonn/github-readme-stats&#41;)
+
+[comment]: <> ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=gormonn&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 <!--
 **gormonn/gormonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
