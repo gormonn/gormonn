@@ -22,10 +22,9 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Mentions of works
 <details>
-  <summary>warframe.trade</summary>
-  In 2015, I developed an unofficial trading system for Warframe players because, at that time, the game lacked a developed trading system. So, players had to manually analyze the trading chat or send out their offers for exchange.
-
-
+  <summary>Warframe.Trade</summary>
+  In 2015, I developed an unofficial trading system for Warframe players because, at that time, the game lacked a developed trading system.
+  So, players had to manually analyze the trading chat or send out their offers for exchange.
   The site offered a search and product database, price ratings, and other marketing tools that made life easier for players.  
 
   ## Topics on Official Forum of the Game:
@@ -35,7 +34,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 </details>
 
 <details>
-  <summary>Warface.lol</summary>
+  <summary>Warface.Lol</summary>
   
   This project was one of my early works that gained popularity in a particular social group.
 
@@ -66,7 +65,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 </details>
 
 <details>
-  <summary>BDO boss tracker</summary>
+  <summary>BDO Boss Tracker</summary>
   
   It was a small application that analyzed messages in the Discord gaming channel and displayed the gathered information on the website in infographic form.
 
