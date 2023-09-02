@@ -9,6 +9,7 @@ My name is Dima.
 I am looking for a job. 😉
 
 [My Resume](https://github.com/gormonn/cv/tree/main)
+
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Mentions of works
