@@ -1,18 +1,26 @@
 document in progress
-# Intro
-My name is Dima.
 
-- I am a developer with a great passion for programming, good UX and games.
-- I have over six years of commercial Web Development.
-- I have R&D and end-to-end development experience.
+Programming experience spanning 9 years, including 6 years predominantly focused on React and Redux as an employee, and 3 years working with other technologies as a freelancer and entrepreneur. 
 
-I am looking for a job. 😉
+# Achievements
+- Completed an extensive B2B web application with 295 screens on 11 pages & acted as the sole developer of the interface.
+- Collaborated on a cool internal B2B startup with a 7-member team, crafting an excellent product & securing funding from Skolkovo Innovation Center.
+- Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition & resulting in the creation of a case for attracting foreign clients.
+- Led two frontend developers, architecture implementation, task planning & assignment.
+- Conducted 15 interviews with React developer candidates, hired three talented people & fired one.
+- Developed & promoted games-related E2E projects, with a community of 15,000 players.
 
-[My Resume](https://github.com/gormonn/cv/tree/main)
+A few sites that I have maintained as a Frontend Engineer:
+https://redcollar.co/
+https://bronitex.ru/
+https://sistema.com/
+https://vivace-rf.ru/
+
+Looking for a job.
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
-# Mentions of works
+# Mentions of Pet Projects
 <details>
   <summary>Warframe.Trade</summary>
   
