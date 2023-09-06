@@ -6,11 +6,11 @@ I am experienced in developing massive web applications, managing development te
 - Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition & resulting in the creation of a case for attracting foreign clients.
 - Led two frontend developers, architecture implementation, task planning & assignment.
 - Conducted 15 interviews with React developer candidates, hired three talented people & fired one.
-- Developed & promoted games-related E2E projects, with a community of 15,000 players.
+- Developed & promoted games-related E2E projects with a community of 15,000 players.
 
 A few sites that I have maintained as a Frontend Engineer:
-- Optimized the FCP metric on the Employer's [corporate website](https://redcollar.co/) to achieve a 0.5s Lighthouse score, which had a positive impact on the brand.
-- Localized the [award-winning website](https://bronitex.ru/) into English within the set deadline, enabling participation in a foreign exhibition and resulting in the creation of a case for attracting foreign clients Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Maker-with-Smartphone-Vibe?tracking_source=search_projects|bronitex), Dribble: [One](https://dribbble.com/shots/21665489-Down-to-a-Thread-Impeccable-3D-for-Glove-Maker-Bronitex), [Two](https://dribbble.com/shots/21503782-Bronitex-Flagship-Smartphone-Vibe-for-Work-Gloves-Store), [Three](https://dribbble.com/shots/21633308-Bronitex-Smooth-Store-to-Sell-Work-Gloves-Online), 1st Place on: [GoldenSite 2022](https://2022.goldensite.ru/work/best-design-company-services/9050/), [WDA](https://workspace.ru/awards/cases/korporativnyy-sayt-dlya-proizvoditelya-perchatok-bronitex/)
+- Optimized the FCP metric on the Employer's [corporate website](https://redcollar.co/) to achieve a 0.5 Lighthouse score, which positively impacted the brand.
+- Localized the [award-winning website](https://bronitex.ru/) into English within the set deadline, enabling participation in a foreign exhibition and resulting in the creation of a case for attracting foreign clients. Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Maker-with-Smartphone-Vibe?tracking_source=search_projects|bronitex), Dribble: [One](https://dribbble.com/shots/21665489-Down-to-a-Thread-Impeccable-3D-for-Glove-Maker-Bronitex), [Two](https://dribbble.com/shots/21503782-Bronitex-Flagship-Smartphone-Vibe-for-Work-Gloves-Store), [Three](https://dribbble.com/shots/21633308-Bronitex-Smooth-Store-to-Sell-Work-Gloves-Online), 1st Place on: [GoldenSite 2022](https://2022.goldensite.ru/work/best-design-company-services/9050/), [WDA](https://workspace.ru/awards/cases/korporativnyy-sayt-dlya-proizvoditelya-perchatok-bronitex/)
 - https://sistema.com/
 - https://vivace-rf.ru/
 
