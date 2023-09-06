@@ -1,6 +1,4 @@
-document in progress
-
-Programming experience spanning 9 years, including 6 years predominantly focused on React and Redux as an employee, and 3 years working with other technologies as a freelancer and entrepreneur. 
+Experienced developing massive web applications, managing development teams, and contributing to internal startups. Also experienced in Full-stack Development, contributing to significant projects and conducting research and development. Vital skill set in Agile methodologies, JavaScript, TypeScript, React, Redux, Effector, and more. Additionally, I have freelanced on various projects.
 
 # Achievements
 - Completed an extensive B2B web application with 295 screens on 11 pages & acted as the sole developer of the interface.
