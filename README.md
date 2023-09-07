@@ -1,12 +1,12 @@
 I am experienced in developing massive web applications, managing development teams, and contributing to internal startups. Also experienced in Full-stack Development, contributing to significant projects and conducting research and development. Vital skill set in Agile methodologies, JavaScript, TypeScript, React, Redux, Effector, and more. Additionally, I have freelanced on various projects.
 
 # Achievements
-- Completed an extensive B2B web application with 295 screens on 11 pages & acted as the sole developer of the interface.
-- Collaborated on a cool internal B2B startup with a 7-member team, crafting an excellent product & securing funding from Skolkovo Innovation Center.
-- Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition & resulting in the creation of a case for attracting foreign clients.
-- Led two frontend developers, architecture implementation, task planning & assignment.
-- Conducted 15 interviews with React developer candidates, hired three talented people & fired one.
-- Developed & promoted games-related E2E projects with a community of 15,000 players.
+- Completed an extensive B2B web application with 295 screens on 11 pages and acted as the sole developer of the interface.
+- Collaborated on a cool internal B2B startup with a 7-member team, crafting an excellent product and securing funding from Skolkovo Innovation Center.
+- Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition and creating a case for attracting foreign clients.
+- Led two front-end developers, architecture implementation, task planning, and assignment.
+- Conducted 15 interviews with React developer candidates, hired three talented people, and fired one.
+- Developed and promoted games-related E2E projects with a community of 15,000 players.
 
 A few sites that I have maintained as a Frontend Engineer:
 - Optimized the FCP metric on the Employer's [corporate website](https://redcollar.co/) to achieve a 0.5 Lighthouse score, which positively impacted the brand.
