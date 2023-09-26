@@ -74,7 +74,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 - [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
 - [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
 - [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
-- Minesweeper Game
+- [Minesweeper Game (Alpha)](https://gormonn.github.io/demo/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
 <!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
 
 
