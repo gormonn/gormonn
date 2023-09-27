@@ -18,6 +18,16 @@ Looking for a job.
 
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
+# Code Samples
+- [Minesweeper Game (Alpha)](https://gormonn.github.io/demo/)
+- [Abstract Landing Page](https://gormonn.github.io/landing-abstract/) [[source]](https://github.com/gormonn/landing-abstract)
+- [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
+- [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
+- [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
+- [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
+<!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
+
+
 # Mentions of Pet Projects
 <details>
   <summary>Warframe.Trade</summary>
@@ -67,15 +77,6 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
   
   ![image](https://github.com/gormonn/gormonn/assets/6252560/b4f9967f-a793-4e39-86c7-37334138cebd)
 </details>
-
-# Code Samples
-- [Minesweeper Game (Alpha)](https://gormonn.github.io/demo/)
-- [Abstract Landing Page](https://gormonn.github.io/landing-abstract/) [[source]](https://github.com/gormonn/landing-abstract)
-- [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
-- [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
-- [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
-- [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
-<!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
 
 
 [comment]: <> ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=gormonn&#41;]&#40;https://git.io/streak-stats&#41;)
