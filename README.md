@@ -1,4 +1,10 @@
-I am experienced in developing massive web applications, managing development teams, and contributing to internal startups. Also experienced in Full-stack Development, contributing to significant projects and conducting research and development. Vital skill set in Agile methodologies, JavaScript, TypeScript, React, Redux, Effector, and more. Additionally, I have freelanced on various projects.
+[CV](https://docs.google.com/document/d/1JJoact95x6ayKJJiwzeWQQFJUgRWRQybVe3bBe-RZMw/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/gormonn/)
+
+My name is Dmitry, and I'm an experienced developer with a certain level of expertise in `Effector`, `Redux`, `React`, `NextJs`, and `Typescript`. My experience includes the development of two successful startups from scratch.
+
+Among my recent achievements, I would like to highlight the creation and successful launch of an MVP project that attracted investments from shareholders affiliated with "Skolkovo."
+
+I value the practice of writing unit tests, as I have rich experience working with fast-growing companies that often overlook this practice.
 
 # Achievements
 
@@ -28,10 +34,6 @@ A few sites that I have maintained as a Frontend Engineer:
 - Localized the [award-winning website](https://bronitex.ru/) into English within the set deadline, enabling participation in a foreign exhibition and resulting in the creation of a case for attracting foreign clients. Mentions: [Behance](https://www.behance.net/gallery/169838265/Bronitex-Glove-Maker-with-Smartphone-Vibe?tracking_source=search_projects|bronitex), Dribble: [One](https://dribbble.com/shots/21665489-Down-to-a-Thread-Impeccable-3D-for-Glove-Maker-Bronitex), [Two](https://dribbble.com/shots/21503782-Bronitex-Flagship-Smartphone-Vibe-for-Work-Gloves-Store), [Three](https://dribbble.com/shots/21633308-Bronitex-Smooth-Store-to-Sell-Work-Gloves-Online), 1st Place on: [GoldenSite 2022](https://2022.goldensite.ru/work/best-design-company-services/9050/), [WDA](https://workspace.ru/awards/cases/korporativnyy-sayt-dlya-proizvoditelya-perchatok-bronitex/)
 - https://sistema.com/
 - https://vivace-rf.ru/
-
-Looking for a job.
-
-Feel free to message me on [LinkedIn](https://www.linkedin.com/in/gormonn/).
 
 # Code Samples
 - [Minesweeper Game (Alpha)](https://gormonn.github.io/demo/)
