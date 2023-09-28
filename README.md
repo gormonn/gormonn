@@ -1,6 +1,6 @@
 [CV](https://docs.google.com/document/d/1JJoact95x6ayKJJiwzeWQQFJUgRWRQybVe3bBe-RZMw/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/gormonn/)
 
-My name is Dmitry, and I'm an experienced developer with a certain level of expertise in `Effector`, `Redux`, `React`, `NextJs`, and `Typescript`. My experience includes the development of two successful startups from scratch.
+My name is Dmitry, and I'm an experienced developer with `Effector`, `Redux`, `React`, `NextJs`, and `Typescript`. My experience includes the development of two successful startups from scratch.
 
 Among my recent achievements, I would like to highlight the creation and successful launch of an MVP project that attracted investments from shareholders affiliated with "Skolkovo."
 
