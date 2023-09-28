@@ -1,7 +1,22 @@
 I am experienced in developing massive web applications, managing development teams, and contributing to internal startups. Also experienced in Full-stack Development, contributing to significant projects and conducting research and development. Vital skill set in Agile methodologies, JavaScript, TypeScript, React, Redux, Effector, and more. Additionally, I have freelanced on various projects.
 
 # Achievements
-- Completed an extensive B2B web application with 295 screens on 11 pages and acted as the sole developer of the interface.
+
+<details>
+  <summary>Completed an extensive B2B web application with 295 screens on 11 pages and acted as the sole developer of the interface.</summary>
+
+The work actively used code generation for types and some parts of the client application, according to the open-API specification. Duration: 1 year.
+
+Tech Stack: `TypeScript` `React` `RTKQuery` `localForage` `ESLint` `Web API` `Figma` `OpenAPI` `RxJS` `Node.js` `Theme-UI` `TypeScript` `CSS` `HTML` `Webpack` 
+
+<img width="1280" alt="dislocation-table-little" src="https://github.com/gormonn/gormonn/assets/6252560/63faef61-f554-472b-904a-11ae4f50bd0b">
+<i>Data grouping with lazy loading and full table virtualization.</i>
+
+![css_sprites](https://github.com/gormonn/gormonn/assets/6252560/75df81fe-6b7f-4fa6-a99d-c1558af446d0)
+
+
+</details>
+
 - Collaborated on a cool internal B2B startup with a 7-member team, crafting an excellent product and securing funding from Skolkovo Innovation Center.
 - Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition and creating a case for attracting foreign clients.
 - Led two front-end developers, architecture implementation, task planning, and assignment.
