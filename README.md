@@ -44,7 +44,7 @@ A few sites that I have maintained as a Frontend Engineer:
 - [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
 <!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
 
-# NPM packages
+# NPM
 - [nodejs-speech-kiosk-usercase](https://www.npmjs.com/package/nodejs-speech-kiosk-usercase)
 - [electron-vosk-speech](https://www.npmjs.com/package/electron-vosk-speech)
 - [app-watchdog](https://www.npmjs.com/package/app-watchdog)
