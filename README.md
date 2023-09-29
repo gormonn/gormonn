@@ -71,7 +71,7 @@ A few sites that I have maintained as a Frontend Engineer:
   ### Summary
   This project was one of my early works that gained popularity in a particular social group.
 
-  It was a purely client-side web application. I enjoyed creating it simply because it was aesthetically pleasing and one-of-a-kind. I aimed to make the interface closely resemble the original game's interface.
+  It was a purely client-side web application. However, I partially used a CMS for routing and a PHP template engine. I enjoyed creating it simply because it was aesthetically pleasing and one-of-a-kind. I aimed to make the interface closely resemble the original game's interface.
   
   ### Features
   - A spinner for loot boxes (no financial investments, just for fun)
