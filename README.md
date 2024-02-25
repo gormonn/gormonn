@@ -36,6 +36,7 @@ A few sites that I have maintained as a Frontend Engineer:
 - https://vivace-rf.ru/
 
 # Code Samples
+- [Kana Quiz (Forked with some features)](https://gormonn.github.io/kanaquiz/)
 - [Minesweeper Game (Alpha)](https://gormonn.github.io/demo/)
 - [Abstract Landing Page](https://gormonn.github.io/landing-abstract/) [[source]](https://github.com/gormonn/landing-abstract)
 - [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
