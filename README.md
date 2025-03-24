@@ -42,12 +42,6 @@ A few sites that I have maintained as a Frontend Engineer:
 - [Electron App](https://github.com/gormonn/electron-app/releases) [[source]](https://github.com/gormonn/electron-app)
 - [Test Message Feed](https://gormonn.github.io/test-message-feed/) [[source]](https://github.com/gormonn/test-message-feed)
 - [Tic Tac Toe Game](https://gormonn.github.io/tic-tac-toe/) [[source]](https://github.com/gormonn/tic-tac-toe)
-- [Frontend Mentor Challenges](https://gormonn.github.io/frontendmentor-challenges/) [[source]](https://github.com/gormonn/frontendmentor-challenges)
-<!-- Mines Game [WIP] [[source]](https://github.com/gormonn/mines-effector-solid) -->
-
-# WIP
-- [Improvements for "the book of shaders"](https://github.com/users/gormonn/projects/4). 
-- Minesweeper based on Pixi.js + shaders. 
 
 # NPM
 - [nodejs-speech-kiosk-usercase](https://www.npmjs.com/package/nodejs-speech-kiosk-usercase)
