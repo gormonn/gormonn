@@ -9,7 +9,7 @@ I value the practice of writing unit tests, as I have rich experience working wi
 # Achievements
 
 <details>
-  <summary>Completed an extensive B2B web application with 90 frames on 11 pages and acted as the sole developer of the interface.</summary>
+  <summary>Completed an extensive B2B web application with 90+ frames on 11 pages and acted as the sole developer of the interface.</summary>
 
 The work actively used code generation for types and some parts of the client application, according to the open-API specification. Duration: 1 year.
 
