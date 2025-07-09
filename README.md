@@ -35,6 +35,10 @@ A few sites that I have maintained as a Frontend Engineer:
 - https://sistema.com/
 - https://vivace-rf.ru/
 
+# Publications
+- [(ru) Как обезопасить бизнес от удаления в сторах: изучаем PWA-приложения](https://www.cossa.ru/special/mobile/308554/)
+- [(ru) Обзор Rive](https://telegra.ph/Obzor-Rive-ot-Claude-Research-07-08)
+
 # Code Samples
 - [Kana Quiz (Forked with some features)](https://gormonn.github.io/kanaquiz/)
 - [Minesweeper Game (Alpha)](https://gormonn.github.io/demo/)
