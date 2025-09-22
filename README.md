@@ -1,4 +1,4 @@
-[CV](https://docs.google.com/document/d/1JJoact95x6ayKJJiwzeWQQFJUgRWRQybVe3bBe-RZMw/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/gormonn/) | [YouTube](https://www.youtube.com/@gormonn)
+[CV](https://docs.google.com/document/d/1JJoact95x6ayKJJiwzeWQQFJUgRWRQybVe3bBe-RZMw/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dchernukho/) | [YouTube](https://www.youtube.com/@gormonn)
 
 My name is Dmitry, and I'm an experienced developer with `Effector`, `Redux`, `React`, `NextJs`, and `Typescript`.
 
