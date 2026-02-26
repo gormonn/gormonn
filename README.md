@@ -35,6 +35,9 @@ A few sites that I have maintained as a Frontend Engineer:
 - https://sistema.com/
 - https://vivace-rf.ru/
 
+Architectural design
+- https://datstech.tv - uses the browser's FileSystem API to create video presentations
+
 # Publications
 - [(ru) Как обезопасить бизнес от удаления в сторах: изучаем PWA-приложения](https://www.cossa.ru/special/mobile/308554/)
 - [(ru) Обзор Rive](https://telegra.ph/Obzor-Rive-ot-Claude-Research-07-08)
