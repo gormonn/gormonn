@@ -1,10 +1,37 @@
-[CV](https://docs.google.com/document/d/1JJoact95x6ayKJJiwzeWQQFJUgRWRQybVe3bBe-RZMw/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/dchernukho/) | [YouTube](https://www.youtube.com/@gormonn)
+## Individual Entrepreneur Dmitrii Chernukho
 
-My name is Dmitry, and I'm an experienced developer with `Effector`, `Redux`, `React`, `NextJs`, and `Typescript`.
+**Business:** Frontend Engineering & Web Development Services  
+**Registered:** Georgia (Tbilisi) · Individual Entrepreneur  
+**Contact:** [LinkedIn](https://www.linkedin.com/in/dchernukho/) | [CV](https://docs.google.com/document/d/1JJoact95x6ayKJJiwzeWQQFJUgRWRQybVe3bBe-RZMw/edit?usp=sharing) 
 
-Among my recent achievements, I would like to highlight the creation and successful launch of an MVP project that attracted investments from shareholders affiliated with "Skolkovo."
+---
 
-I value the practice of writing unit tests, as I have rich experience working with fast-growing companies that often overlook this practice.
+### Services
+
+Frontend engineering services for product teams, startups, and digital agencies:
+
+- **Web Application Development** — end-to-end implementation of single-page and multi-page web applications; production-ready code delivered against specifications and design systems
+- **Frontend Architecture Engineering** — implementing component structure, state management layers, API integration patterns, and build pipelines for long-term maintainability
+- **MVP Engineering** — fast-turnaround implementation of investor-ready prototypes; structured to validate product hypotheses and scale after funding
+- **Embedded Senior Engineering** — joining client engineering teams as a senior contractor: active sprint participation, pull request reviews, code integration, and onboarding documentation authoring
+- **AI-Accelerated Delivery** — using Cursor and Claude to speed up code generation, refactoring, test coverage, and technical documentation — shorter timelines, same quality bar
+- **Localization & Market Adaptation** — implementing i18n infrastructure and adapting existing products for international markets within fixed deadlines
+
+**Tech stack:** `React` `Next.js` `TypeScript` `Vite` `Node.js` `Zustand` `Effector` `Redux` `Codegen` `Cursor` `Claude`
+
+---
+
+### Clients & Projects
+
+Selected commercial projects delivered as a freelance frontend engineer:
+
+- [redcollar.co](https://redcollar.co/) — corporate website; optimized FCP to achieve a 0.5 Lighthouse score
+- [bronitex.ru](https://bronitex.ru/) — award-winning B2C e-commerce site; localized into English for international exhibition (1st place GoldenSite 2022, WDA)
+- [sistema.com](https://sistema.com/) — enterprise-level web platform
+- [vivace-rf.ru](https://vivace-rf.ru/) — corporate web application
+- [datstech.tv](https://datstech.tv) — video presentation platform using browser FileSystem API
+
+---
 
 # Achievements
 
@@ -23,11 +50,10 @@ Tech Stack: `TypeScript` `React` `RTKQuery` `localForage` `ESLint` `Web API` `Fi
 
 </details>
 
-- Collaborated on a cool internal B2B startup with a 7-member team, crafting an excellent product and securing funding from Skolkovo Innovation Center.
-- Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition and creating a case for attracting foreign clients.
-- Led two front-end developers, architecture implementation, task planning, and assignment.
-- Conducted 15 interviews with React developer candidates, hired three talented people, and fired one.
-- Developed and promoted games-related E2E projects with a community of 15,000 players.
+- Developed and launched a B2B web platform as part of a 7-member engineering team; the product secured funding from Skolkovo Innovation Center.
+- Localized the award-winning B2C website into English within the set deadline, enabling participation in a foreign exhibition.
+- Implemented frontend architecture for a 3-person team project; authored technical documentation and task breakdown structure.
+- Developed and shipped games-related E2E web projects with a community of 15,000 active users.
 
 A few sites that I have maintained as a Frontend Engineer:
 - Optimized the FCP metric on the Employer's [corporate website](https://redcollar.co/) to achieve a 0.5 Lighthouse score, which positively impacted the brand.
@@ -35,12 +61,12 @@ A few sites that I have maintained as a Frontend Engineer:
 - https://sistema.com/
 - https://vivace-rf.ru/
 
-Architectural design
+Architecture implementation
 - https://datstech.tv - uses the browser's FileSystem API to create video presentations
 
 # Publications
-- [(ru) Как обезопасить бизнес от удаления в сторах: изучаем PWA-приложения](https://www.cossa.ru/special/mobile/308554/)
-- [(ru) Обзор Rive](https://telegra.ph/Obzor-Rive-ot-Claude-Research-07-08)
+- [A Look at PWA Applications](https://www.cossa.ru/special/mobile/308554/)
+- [Rive Animation Library Overview](https://telegra.ph/Obzor-Rive-ot-Claude-Research-07-08)
 
 # Code Samples
 - [Kana Quiz (Forked with some features)](https://gormonn.github.io/kanaquiz/)
